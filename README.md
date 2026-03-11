@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 你好，我是 [小鬼❛˓◞˂̵✧]
+
+🚀 **关于我**
+- 🔭 我正在学习：Python、前端开发
+- 🌱 当前目标：帮助新手入门编程
+- 💬 可以问我：如何开始学习编程、GitHub 基础操作
+- ⚡ 有趣的事：我创建了一个新手编程交流团队
+
+
+📫 **联系我**
+- 团队：编程新手交流社区
+- 团队地址：https://github.com/Programming-Newbies-Community
