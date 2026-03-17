@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 
 
 📫 **联系我**
+- 我的邮箱是wwh866@qq.com
+
+😄 **加入我们**
 - 团队：编程新手交流社区
 - 团队地址：https://github.com/Programming-Newbies-Community
